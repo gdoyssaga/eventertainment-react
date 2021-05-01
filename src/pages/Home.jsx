@@ -20,7 +20,7 @@ const HomePage = () => {
 
     <div>
       <box>
-      Homepage
+     
       <h2>All event</h2>
       <p>Let's manage our fucking event</p>
       <Button type="button" style={{}}> Manage event</Button>
